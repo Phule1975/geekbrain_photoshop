@@ -1,108 +1,55 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
 
-/*.container {
+.container{
     width: 1280px;
     height: 3186px;
-    margin: 0 auto;
-    background: f5f5f5;
-    /*min-height: 100%;
+    background-color: tomato;
     position: relative;
-}*/
+    
+}
 
-/*.header {
-    width: /*100%;*/ /*1280px;*/
-    /*height: 10%; /*323px;*//*
-    background: #4a5262;
+.header{
+    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    background-color: blue;
     padding: 50px;
     
-}*/
-/*---------------------------------*/
-.header {
-      position: absolute;
-      left: 0px;
-      top: 0px;
-      width: 1280px;
-      height: 10%;
-      background: #4a5262;
-      padding: 50px;
-      z-index: 1;
 }
 
-.product_name {
-  font-size: 60px;
-  font-family: "Arial";
-  color: #ffffff;
-    font-weight: normal;
-  line-height: 1.2;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  z-index: 7;
+.footer{
+    width: 1280px;
+    height: 27px;
+    background-color: #f5f5f5;
+}
+
+.footer p{
+    font-family: "Arial";
+    font-size: 12px;
+    line-height: 27px;
+    text-align: center;
+    color: #495261;
+}
+
+.product_name{
+    font-family: "Arial";
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.2;
+}
+
+li {
+    font-family: "Arial";
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.8;
+}
+
+.contact{
     
 }
-
-
-
-
-/*----------------------*/
-
-.header {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 13;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 249px;
-  width: 25px;
-  height: 19px;
-  z-index: 12;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 213px;
-  width: 25px;
-  height: 19px;
-  z-index: 11;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 177px;
-  width: 25px;
-  height: 19px;
-  z-index: 10;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 51px;
-  top: 143px;
-  width: 25px;
-  height: 19px;
-  z-index: 9;
-}
-
-
-
-/*-------------------------------------*/
-
-/*.footer{
-    
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%; /*1280px;
-    height: 16%; /*25px;
-    background: #4a5262;
-}*/
