@@ -446,4 +446,25 @@ Copyright © 2014 Product name · PSD HTML CSS
   z-index: 15;
 }
 
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 977px;
+  width: 20px;
+  height: 20px;
+  z-index: 65;
+}
+.Put_on_this_page_information_about_your_product {
+  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.8;
+  text-align: left;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 86.11px;
+  top: 170.837px;
+  z-index: 8;
+}
 
