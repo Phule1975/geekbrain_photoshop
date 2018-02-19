@@ -4,24 +4,41 @@
 }
 
 .container{
+    margin: 0 auto;
     width: 1280px;
-    height: 3186px;
+    /*height: 500px;*/
     background-color: tomato;
-    position: relative;
+    /*position: relative;*/
     
 }
 
 .header{
-    margin: 0 auto;
-    width: 50%;
-    height: 50%;
+    /*margin: 0 auto;*/
+    /*width: 1280px;*/
+    height: 323px; /*10%;*/
     background-color: blue;
-    padding: 50px;
-    
+        
 }
 
+.about{
+   /* width: 1280px; /*1280*/
+    height: 346px; /*11%; /*346*/
+    background-color: chartreuse;
+}
+.pluses{
+    height: 418px;
+    background-color: beige;
+}
+
+.screenshot {
+    height: 488px;
+    background-color: chocolate;
+}
+
+
+
 .footer{
-    width: 1280px;
+    /*width: 1280px;*/
     height: 27px;
     background-color: #f5f5f5;
 }
