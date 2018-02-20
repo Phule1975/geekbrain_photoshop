@@ -7,20 +7,51 @@ html {font-family: "Arial";}
 .container{
     margin: 0 auto;
     width: 1280px;
-    /*height: 500px;*/
-    background-color: tomato;
-    /*position: relative;*/
-    
+    background-color: tomato;    
 }
 
 .header{
-    /*margin: 0 auto;*/
-    /*width: 1280px;*/
     height: 323px; /*10%;*/
     background-color: #4a5262;
+    position: relative;
         
 }
+.product {
+    width: 590px;
+    height: 273px;
+    padding: 50px 0 0 50px;
+}
 
+.product_name{
+    font-size: 60px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.2;    
+}
+
+ul {
+    list-style-image: url(../img/galka.png);
+    padding-left: 35px;
+}
+
+.spisok {
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.8;
+}
+
+.video{
+    width: 590px;
+    height: 273px;
+    background-color: red;
+}
+
+
+
+
+
+/*----------------------------------------------*/
 .about{
    /* width: 1280px; /*1280*/
     height: 346px; /*11%; /*346*/
@@ -51,6 +82,17 @@ html {font-family: "Arial";}
     background-color: #4a5262;
 }
 
+input, textarea {
+    color: blue;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+textarea {
+    
+    height: 200px;
+    resize: none;
+}
 
 
 .footer{
@@ -60,32 +102,9 @@ html {font-family: "Arial";}
 }
 
 .footer p{
-    /*font-family: "Arial";*/
     font-size: 12px;
     line-height: 27px;
     text-align: center;
     color: #495261;
 }
 
-.product_name{
-    /*font-family: "Arial";*/
-    font-size: 60px;
-    color: #ffffff;
-    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
-    line-height: 1.2;
-    padding: 50px;
-}
-
-ul {
-    list-style-image: url(../img/galka.png);
-    padding-left: 50px;
-}
-
-.spisok {
-    /*font-family: "Arial";*/
-    
-    font-size: 20px;
-    color: #ffffff;
-    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
-    line-height: 1.8;
-}
