@@ -1,107 +1,4 @@
-/*.Copyright_©_2014_Product_name_·_PSD_HTML_CSS {
-  font-size: 12px;
-  font-family: "Arial";
-  color: rgb(73, 82, 97);
-  line-height: 2;
-  text-align: left;
-  position: absolute;
-  left: 497px;
-  top: 3186.874px;
-  z-index: 3;
-
-Copyright © 2014 Product name · PSD HTML CSS
-}*/
-.header {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 13;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 249px;
-  width: 25px;
-  height: 19px;
-  z-index: 12;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 213px;
-  width: 25px;
-  height: 19px;
-  z-index: 11;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 177px;
-  width: 25px;
-  height: 19px;
-  z-index: 10;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 51px;
-  top: 143px;
-  width: 25px;
-  height: 19px;
-  z-index: 9;
-}
-.Put_on_this_page_information_about_your_product {
-  font-size: 20px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.8;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  position: absolute;
-  left: 86.11px;
-  top: 170.837px;
-  z-index: 8;
-}
-.Product_name {
-  font-size: 18.241px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.2;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  -moz-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  -webkit-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  -ms-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  position: absolute;
-  left: 177.293px;
-  top: 61.555px;
-  z-index: 7;
-}
-.Shape_9 {
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 761px;
-  top: 50px;
-  width: 469px;
-  height: 214px;
-  z-index: 6;
-}
-.header_bg {
-  background-image: url("header-bg.png");
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 323px;
-  z-index: 5;
-}
-/*-------------------------------*/
-
+/*Contact*/
 .contacts {
   position: absolute;
   left: 0px;
@@ -376,12 +273,1072 @@ Copyright © 2014 Product name · PSD HTML CSS
   left: 0px;
   top: 2651px;
   width: 1280px;
-  height: 509px; 16% #495161
+  height: 509px;
   z-index: 167;
 }
+/*buy_it_now*/
 
-/*-----------------------------*/
+.buy_it_now {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 165;
+}
+.lux {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 164;
+}
+.button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 163;
+}
+.BUY {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 965px;
+  top: 2553.5px;
+  z-index: 162;
+}
+.bg_button {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 855px;
+  top: 2542px;
+  width: 260px;
+  height: 40px;
+  z-index: 161;
+}
+._1__Porro_officia_cumque_sint_deleniti___2__Тemo {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 2266.517px;
+  width: 250px;
+  height: 278px;
+  z-index: 159;
+}
+._200 {
+  font-size: 40px;
+  font-family: "Arial";
+  color: rgb(73, 82, 97);
+  line-height: 0.75;
+  text-align: left;
+  position: absolute;
+  left: 941px;
+  top: 2203.674px;
+  z-index: 158;
+}
+.Lux {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 964px;
+  top: 2113.5px;
+  z-index: 157;
+}
+.bg_price {
+  background-image: url("bg-price.png");
+  position: absolute;
+  left: 831px;
+  top: 2150px;
+  width: 308px;
+  height: 79px;
+  z-index: 156;
+}
+.bg {
+  background-image: url("bg.png");
+  position: absolute;
+  left: 835px;
+  top: 2103px;
+  width: 300px;
+  height: 499px;
+  z-index: 155;
+}
+.premium {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 153;
+}
+.button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 152;
+}
+.BUY {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 620px;
+  top: 2553.5px;
+  z-index: 151;
+}
+.bg_button {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 510px;
+  top: 2542px;
+  width: 260px;
+  height: 40px;
+  z-index: 150;
+}
+._1__Porro_officia_cumque_sint_deleniti___2__Тemo {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 510px;
+  top: 2361.517px;
+  width: 242px;
+  height: 182px;
+  z-index: 148;
+}
+._150 {
+  font-size: 40px;
+  font-family: "Arial";
+  color: rgb(73, 82, 97);
+  line-height: 0.75;
+  text-align: left;
+  position: absolute;
+  left: 596px;
+  top: 2298.674px;
+  z-index: 147;
+}
+.Premium {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 591px;
+  top: 2208.5px;
+  z-index: 146;
+}
+.bg_price {
+  background-image: url("bg-price.png");
+  position: absolute;
+  left: 486px;
+  top: 2245px;
+  width: 308px;
+  height: 79px;
+  z-index: 145;
+}
+.bg {
+  background-image: url("bg.png");
+  position: absolute;
+  left: 490px;
+  top: 2198px;
+  width: 300px;
+  height: 404px;
+  z-index: 144;
+}
+.standart {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 142;
+}
+.button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 141;
+}
+.BUY {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 275px;
+  top: 2553.5px;
+  z-index: 140;
+}
+.bg_button {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 165px;
+  top: 2542px;
+  width: 260px;
+  height: 40px;
+  z-index: 139;
+}
+._1__Porro_officia_cumque_sint_deleniti___2__Тemo {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  text-align: left;
+  position: absolute;
+  left: 165px;
+  top: 2459.517px;
+  width: 242px;
+  height: 86px;
+  z-index: 137;
+}
+._100 {
+  font-size: 40px;
+  font-family: "Arial";
+  color: rgb(73, 82, 97);
+  line-height: 0.75;
+  text-align: left;
+  position: absolute;
+  left: 251px;
+  top: 2396.674px;
+  z-index: 136;
+}
+.Standart {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 249px;
+  top: 2306px;
+  z-index: 135;
+}
+.bg_price {
+  background-image: url("bg-price.png");
+  position: absolute;
+  left: 141px;
+  top: 2343px;
+  width: 308px;
+  height: 79px;
+  z-index: 134;
+}
+.bg {
+  background-image: url("bg.png");
+  position: absolute;
+  left: 145px;
+  top: 2296px;
+  width: 300px;
+  height: 306px;
+  z-index: 133;
+}
 
+/*reviews*/
+
+.reviews {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 128;
+}
+.right_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 127;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 126;
+}
+.Lourens_S_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(151, 151, 151);
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 773px;
+  top: 1914.998px;
+  z-index: 125;
+}
+.Porro_officia_cumque_sint_deleniti_nemo_facere_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  font-style: italic;
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 773px;
+  top: 1855.989px;
+  width: 436px;
+  height: 64px;
+  z-index: 124;
+}
+.bg_review {
+  background-image: url("bg review.png");
+  position: absolute;
+  left: 747px;
+  top: 1824px;
+  width: 483px;
+  height: 121px;
+  z-index: 123;
+}
+.userpic {
+  border-radius: 50%;
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 656px;
+  top: 1824px;
+  width: 75px;
+  height: 75px;
+  z-index: 122;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 120;
+}
+.Lourens_S_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(151, 151, 151);
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 773px;
+  top: 1769.998px;
+  z-index: 119;
+}
+.Porro_officia_cumque_sint_deleniti_nemo_facere_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  font-style: italic;
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 773px;
+  top: 1710.989px;
+  width: 436px;
+  height: 64px;
+  z-index: 118;
+}
+.bg_review {
+  background-image: url("bg review.png");
+  position: absolute;
+  left: 747px;
+  top: 1679px;
+  width: 483px;
+  height: 121px;
+  z-index: 117;
+}
+.userpic {
+  border-radius: 50%;
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 656px;
+  top: 1679px;
+  width: 75px;
+  height: 75px;
+  z-index: 116;
+}
+.left_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 113;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 112;
+}
+.Lourens_S_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(151, 151, 151);
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 167px;
+  top: 1914.998px;
+  z-index: 111;
+}
+.Porro_officia_cumque_sint_deleniti_nemo_facere_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  font-style: italic;
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 167px;
+  top: 1855.989px;
+  width: 436px;
+  height: 64px;
+  z-index: 110;
+}
+.bg_review {
+  background-image: url("bg review.png");
+  position: absolute;
+  left: 141px;
+  top: 1824px;
+  width: 483px;
+  height: 121px;
+  z-index: 109;
+}
+.userpic {
+  border-radius: 50%;
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 1824px;
+  width: 75px;
+  height: 75px;
+  z-index: 108;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 106;
+}
+.Lourens_S_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(151, 151, 151);
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 167px;
+  top: 1769.998px;
+  z-index: 105;
+}
+.Porro_officia_cumque_sint_deleniti_nemo_facere_ {
+  font-size: 14px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  font-style: italic;
+  line-height: 1.286;
+  text-align: left;
+  position: absolute;
+  left: 167px;
+  top: 1710.989px;
+  width: 436px;
+  height: 64px;
+  z-index: 104;
+}
+.bg_review {
+  background-image: url("bg review.png");
+  position: absolute;
+  left: 141px;
+  top: 1679px;
+  width: 483px;
+  height: 121px;
+  z-index: 103;
+}
+.userpic {
+  border-radius: 50%;
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 1679px;
+  width: 75px;
+  height: 75px;
+  z-index: 102;
+}
+.Reviews {
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 583px;
+  top: 1615px;
+  z-index: 99;
+}
+
+/*scrinshots*/
+
+.scrinshots {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 97;
+}
+.right_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 96;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 95;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 854px;
+  top: 1432.269px;
+  width: 349px;
+  height: 87px;
+  z-index: 94;
+}
+.The_description_for_the_image {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 1395.748px;
+  z-index: 93;
+}
+.image {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 640px;
+  top: 1373px;
+  width: 200px;
+  height: 150px;
+  z-index: 92;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 90;
+}
+.Pariatur_iure_ab_sunt_nesciunt__quibusdam_odio_ {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 854px;
+  top: 1252.269px;
+  width: 359px;
+  height: 108px;
+  z-index: 89;
+}
+.The_description_for_the_image {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 855px;
+  top: 1215.748px;
+  z-index: 88;
+}
+.image {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 640px;
+  top: 1193px;
+  width: 200px;
+  height: 150px;
+  z-index: 87;
+}
+.left_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 84;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 83;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 264px;
+  top: 1432.269px;
+  width: 349px;
+  height: 87px;
+  z-index: 82;
+}
+.The_description_for_the_image {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 265px;
+  top: 1395.748px;
+  z-index: 81;
+}
+.image {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 1373px;
+  width: 200px;
+  height: 150px;
+  z-index: 80;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 78;
+}
+.Pariatur_iure_ab_sunt_nesciunt__quibusdam_odio_ {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 264px;
+  top: 1252.269px;
+  width: 359px;
+  height: 108px;
+  z-index: 77;
+}
+.The_description_for_the_image {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 265px;
+  top: 1215.748px;
+  z-index: 76;
+}
+.image {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 1193px;
+  width: 200px;
+  height: 150px;
+  z-index: 75;
+}
+.Scrinshots {
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 570px;
+  top: 1129px;
+  z-index: 72;
+}
+.bg {
+  background-image: url("bg.png");
+  position: absolute;
+  left: 0px;
+  top: 1085px;
+  width: 1280px;
+  height: 487px;
+  z-index: 71;
+}
+
+/*pluses*/
+
+.pluses {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 69;
+}
+.right_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 68;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 67;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 66;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 977px;
+  width: 20px;
+  height: 20px;
+  z-index: 65;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 640px;
+  top: 971px;
+  width: 32px;
+  height: 32px;
+  z-index: 64;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 993.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 62;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 60;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 59;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 878px;
+  width: 20px;
+  height: 20px;
+  z-index: 58;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 640px;
+  top: 872px;
+  width: 32px;
+  height: 32px;
+  z-index: 57;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 894.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 55;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 53;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 52;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 646px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+  z-index: 51;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 640px;
+  top: 774px;
+  width: 32px;
+  height: 32px;
+  z-index: 50;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 796.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 48;
+}
+.left_items {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 45;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 44;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 43;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 977px;
+  width: 20px;
+  height: 20px;
+  z-index: 42;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 971px;
+  width: 32px;
+  height: 32px;
+  z-index: 41;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 993.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 39;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 37;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 36;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 878px;
+  width: 20px;
+  height: 20px;
+  z-index: 35;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 872px;
+  width: 32px;
+  height: 32px;
+  z-index: 34;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 894.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 32;
+}
+.item {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 30;
+}
+.plus_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 3186px;
+  z-index: 29;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 56px;
+  top: 780px;
+  width: 20px;
+  height: 20px;
+  z-index: 28;
+}
+.Shape_3 {
+  background-color: rgb(74, 82, 97);
+  position: absolute;
+  left: 50px;
+  top: 774px;
+  width: 32px;
+  height: 32px;
+  z-index: 27;
+}
+.Delectus_dolorem_vero_quae_beatae_quasi_dolor_d {
+  font-size: 16px;
+  font-family: "Arial";
+  color: rgb(54, 54, 54);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 90px;
+  top: 796.269px;
+  width: 526px;
+  height: 63px;
+  z-index: 25;
+}
+.Dignity_and_pluses_product {
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(74, 82, 96);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 462px;
+  top: 746.255px;
+  z-index: 22;
+}
+
+
+/*about*/
 .about {
   position: absolute;
   left: 0px;
@@ -402,7 +1359,7 @@ Copyright © 2014 Product name · PSD HTML CSS
 .About_your_product {
   font-size: 30px;
   font-family: "Arial";
-  color: rgb(74, 82, 97);
+  color: rgb(74, 82, 96);
   line-height: 1.2;
   text-align: left;
   position: absolute;
@@ -445,26 +1402,3 @@ Copyright © 2014 Product name · PSD HTML CSS
   height: 2863px;
   z-index: 15;
 }
-
-.Layer_2 {
-  background-image: url("Layer 2.png");
-  position: absolute;
-  left: 646px;
-  top: 977px;
-  width: 20px;
-  height: 20px;
-  z-index: 65;
-}
-.Put_on_this_page_information_about_your_product {
-  font-size: 20px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.8;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  position: absolute;
-  left: 86.11px;
-  top: 170.837px;
-  z-index: 8;
-}
-
