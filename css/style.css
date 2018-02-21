@@ -1,473 +1,235 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
-body {
-    
-}
+html {font-family: "Arial";}
 
-.container {
-    width: 1280px;
-    /*height: 3186px;*/
+.container{
     margin: 0 auto;
-    background: f5f5f5;
-    min-height: 100%;
-    position: relative;
+    width: 1280px;
 }
 
-.header {
-    width: /*100%;*/ 1280px;
-    height: 10%; /*323px;*/
-    background: #4a5262;
-    padding: 50px;
-    
+.header{
+    height: 323px;
+    background-color: #4a5262;
+    position: relative;
+        
+}
+.product {
+    width: 590px;
+    height: 273px;
+    position: absolute;
+    bottom: 0;
+    left: 50px;
 }
 
 .product_name{
-    color: #ffffff;
-    font-family: Arial;
     font-size: 60px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.2;    
 }
 
-.footer{
+ul {
+    padding-left: 35px;
+}
+
+.spisok {
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    line-height: 1.8;
+    list-style-image: url(../img/galka.png);
     
+}
+
+.product_img{
+    width: 590px;
+    height: 273px;
+    background-color: #4a5262;
     position: absolute;
     bottom: 0;
-    left: 0;
-    width: 100%; /*1280px;*/
-    height: 16%; /*25px;*/
-    background: #4a5262;
+    right: 50px;
 }
-.footer p {
-    font-family: "Arial";
-    font-size: 12px;
+.product_img img{
+    float: right;
 }
 
-.copy {
-    font-family: "Arial";
-    font-size: 12px;
-    /*---------------
-    .Copyright_©_2014_Product_name_·_PSD_HTML_CSS {
-  
-  
-  color: rgb(73, 82, 97);#495261
-  line-height: 2;
-  text-align: left;
-  position: absolute;
-  left: 497px;
-  top: 3186.874px;
-  z-index: 3;
-}
-*/
+.head{
+    font-size: 30px;
+    color: #4a5262;
+    line-height: 1.2;
+    text-align: center;
 }
 
-.product_info {
-  font-size: 20px;
-  font-family: "Arial";
-  color: #ffffff;
-  line-height: 1.8;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  position: absolute;
-  left: 86.11px;
-  top: 170.837px;
-  z-index: 8;
+/*----------------------------------------------*/
+.about{
+   /* width: 1280px; /*1280*/
+    height: 346px; /*11%; /*346*/
+    background-color: #ffffff;
+}
+.pluses{
+    height: 418px;
+    background-color: #f4f4f4;
 }
 
+.pluses_head{
+    height: 50px;
+    background-color: #f5f5f5;
+    padding-top: 50px;
+}
+.pluses_body{
+    height: 318px;
+    position: relative;
+}
+.pluses_body_left {
+    width: 585px;
+    background-color: #f5f5f5;
+    position: absolute;
+    left: 50px;
+    top:0;
+}
 
+.pluses_body_left p{
+    font-size: 16px;
+    color: #363636;
+    line-height: 1.8;    
+}
 
-/*.contact{
-    height: 510px;
-}*/
+.pluses_body_right {
+    width: 585px;
+    background-color: #f5f5f5;
+    position: absolute;
+    right: 50px;
+    top: 0px;
+}
 
-/*.header {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 13;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 249px;
-  width: 25px;
-  height: 19px;
-  z-index: 12;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 213px;
-  width: 25px;
-  height: 19px;
-  z-index: 11;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 50px;
-  top: 177px;
-  width: 25px;
-  height: 19px;
-  z-index: 10;
-}
-.check_icon {
-  background-image: url("check icon.png");
-  position: absolute;
-  left: 51px;
-  top: 143px;
-  width: 25px;
-  height: 19px;
-  z-index: 9;
-}
-.Put_on_this_page_information_about_your_product {
-  font-size: 20px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.8;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  position: absolute;
-  left: 86.11px;
-  top: 170.837px;
-  z-index: 8;
-}
-.Product_name {
-  font-size: 18.241px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.2;
-  text-align: left;
-  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
-  -moz-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  -webkit-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  -ms-transform: matrix( 3.28931925746839,0,0,3.28931925746839,0,0);
-  position: absolute;
-  left: 177.293px;
-  top: 61.555px;
-  z-index: 7;
-}
-.Shape_9 {
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 761px;
-  top: 50px;
-  width: 469px;
-  height: 214px;
-  z-index: 6;
-}
-.header_bg {
-  background-image: url("header-bg.png");
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 323px;
-  z-index: 5;
+.pluses_body_right p{
+    font-size: 16px;
+    color: #363636;
+    line-height: 1.8;
 }
 
 
-.background {
-  background-image: url("background.png");
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 2;
+
+
+.screenshot {
+    height: 488px;
+    background-color: #ffffff;
 }
-color="#f5f5f5"
-color="#4a5262"
+
+.reviews {
+    height: 424px;
+    background-color: #f5f5f5;
+}
+
+/* Buy it now */
+
+.buy {
+    height: 656px;
+}
+
+.buy_head{
+    height: 100px;
+    background-color: #ffffff;
+    padding: 25px;
+}
+.buy_body{
+    display: flex;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 50px;
+}
+
+.buy_100{
+    margin: 0 auto;
+    width: 300px;
+    background-color: #4a5262;
+    border-radius: 5px;    
+}
+
+.buy_100 ol {
+    padding-left: 35px;
+}
+
+.buy_100 li{
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 1.8;
+    text-align: left;
+}
+.standart{
+    font-size: 24px;
+    color: #ffffff;
+    line-height: 2;
+    text-align: center;
+}
+
+.b100 {
+    font-size: 40px;
+    color: #4a5262;
+    background-color: #ffffff;
+    border: 2px;
+    text-align: center;
+    line-height: 1.5;
+    border-color: #4a5262;
+    border-style: solid;
+}
+
+.bg_button{
+    width: 260px;
+    height: 40px;
+    background-color: #ffffff;
+    border: 1px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.big_b{
+    font-size: 18px;
+    color: #4a5261;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+   
+    
+}
 
 
------------------
+
 .contacts {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 204;
+    height: 508px;
+    background-color: #4a5262;
 }
-.social_buttons {
-  font-size: 60px;
-  font-family: "Socialico";
-  color: rgb(255, 255, 255);
-  line-height: 0.4;
-  text-align: left;
-  position: absolute;
-  left: 788.937px;
-  top: 2978.718px;
-  z-index: 203;
+
+input, textarea {
+    color: blue;
+    font-size: 20px;
+    border-radius: 5px;
 }
-.phone {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 202;
-}
-._80_00_4568_55_55 {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 821px;
-  top: 2889px;
-  z-index: 201;
-}
-.phone_icon {
-  background-image: url("phone icon.png");
-  position: absolute;
-  left: 795px;
-  top: 2889px;
-  width: 24px;
-  height: 23px;
-  z-index: 200;
-}
-.email {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 198;
-}
-.psdhtmlcss_mail_ru {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 820px;
-  top: 2868.27px;
-  z-index: 197;
-}
-.email_icon {
-  background-image: url("email icon.png");
-  position: absolute;
-  left: 795px;
-  top: 2846px;
-  width: 22px;
-  height: 22px;
-  z-index: 196;
-}
-.icq {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 194;
-}
-._279679659 {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 824px;
-  top: 2803px;
-  z-index: 193;
-}
-.icq_icon {
-  background-image: url("icq icon.png");
-  position: absolute;
-  left: 795px;
-  top: 2801px;
-  width: 26px;
-  height: 26px;
-  z-index: 192;
-}
-.skype {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 190;
-}
-.here_your_login_skype {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 823px;
-  top: 2783.27px;
-  z-index: 189;
-}
-.skype_icon {
-  background-image: url("skype icon.png");
-  position: absolute;
-  left: 795px;
-  top: 2757px;
-  width: 24px;
-  height: 26px;
-  z-index: 188;
-}
-.form {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 186;
-}
-.send {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 185;
-}
-.Send {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(73, 82, 97);
-  font-weight: bold;
-  text-transform: uppercase;
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 476px;
-  top: 3079px;
-  z-index: 184;
-}
-.Shape_8 {
-  border-radius: 5px;
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 429px;
-  top: 3071px;
-  width: 140px;
-  height: 40px;
-  z-index: 183;
-}
-.message {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 181;
-}
-.Your_message: {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(73, 82, 97);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 259px;
-  top: 2911.27px;
-  z-index: 180;
-}
-.Shape_6 {
-  border-radius: 5px;
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 249px;
-  top: 2880px;
-  width: 500px;
-  height: 170px;
-  z-index: 179;
-}
-.email {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 177;
-}
-.Your_email: {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(73, 82, 97);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 259px;
-  top: 2826px;
-  z-index: 176;
-}
-.Shape_4 {
-  border-radius: 5px;
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 249px;
-  top: 2818px;
-  width: 500px;
-  height: 40px;
-  z-index: 175;
-}
-.name {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 1280px;
-  height: 3186px;
-  z-index: 173;
-}
-.Your_name: {
-  font-size: 16px;
-  font-family: "Arial";
-  color: rgb(73, 82, 97);
-  line-height: 1.5;
-  text-align: left;
-  position: absolute;
-  left: 259px;
-  top: 2765px;
-  z-index: 172;
-}
-.Shape_4 {
-  border-radius: 5px;
-  background-color: rgb(255, 255, 255);
-  position: absolute;
-  left: 249px;
-  top: 2757px;
-  width: 500px;
-  height: 40px;
-  z-index: 171;
-}
-.Contacts {
-  font-size: 30px;
-  font-family: "Arial";
-  color: rgb(255, 255, 255);
-  line-height: 1.2;
-  text-align: left;
-  position: absolute;
-  left: 581px;
-  top: 2697px;
-  z-index: 168;
-}
-.bg {
-  background-image: url("bg.png");
-  position: absolute;
-  left: 0px;
-  top: 2651px;
-  width: 1280px;
-  height: 509px;
-  z-index: 167;
+
+textarea {
+    width: 500px;
+    height: 170px;
+    resize: none;
 }
 
 
+.footer{
+    /*width: 1280px;*/
+    height: 27px;
+    background-color: #f5f5f5;
+}
 
+.footer p{
+    font-size: 12px;
+    line-height: 27px;
+    text-align: center;
+    color: #495261;
+}
 
-
-*/
-.d{
-    display: 
+.fa:before{
+color: #ffffff; /*черный цвет*/
+font-size:36px; /*размер иконки 12 пикселей в ширину и высоту*/
 }
